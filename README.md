@@ -3,7 +3,7 @@ Most representative of my work nowadays. A set of projects and fun experiments u
 
 Projects: 
 * Project 1: Playing around with conditional normal distributions, and understanding covariance functions and their resulting matrices. 
-* Project 2: 
+* Project 2: Testing the accuracy of the fields functions against raw calculations, and simulating a conditional field. 
 * Project 3: 
 * Project 4: 
 
