@@ -8,7 +8,7 @@ Projects:
 * Project 1: Playing around with conditional normal distributions, and understanding covariance functions and their resulting matrices. 
 * Project 2: Testing the accuracy of the fields prediction (Kriging) functions against raw calculations, and simulating a conditional field. 
 * Project 3: Testing the accuracy of the fields MLE for covariance functions against raw calculations, MLE Countour Plots, and some large sample theory. 
-* Project 5: Coming Soon!
+* Project 5: Coming Soon! Working on some data on the skiing runs down Mary Jane! 
 
 
 
