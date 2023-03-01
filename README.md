@@ -11,4 +11,4 @@ Projects:
 
 
 
-Important concepts: Big Data, Linear Statistics (OLS, GLS, transformations), Multivariate and Conditional Normals, Stochastic Processes, Matrix Decompositions, Circulant Embedding, Spatial prediction with Kriging, Conditional Simulation, Maximum Likelihood theory, Covariance Functions, and Kernels.
+Important concepts: Big Data, Linear Statistics (OLS, GLS, transformations), Multivariate and Conditional Normals, Stochastic Processes, Matrix Decompositions, Circulant Embedding, Spatial prediction with Kriging, Conditional Simulation, Maximum Likelihood theory, Covariance Functions, and Kernels. 
