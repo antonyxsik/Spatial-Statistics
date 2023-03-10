@@ -1,5 +1,5 @@
 # Spatial-Statistics
-Most representative of my work nowadays. A set of projects and fun experiments using the fields package for spatial statistics. (6 is most representative of my current work)
+Most representative of my work nowadays. A set of projects and fun experiments using the fields and LatticeKrig packages for spatial statistics. (6 is most representative of my current work)
 
 Projects: 
 
